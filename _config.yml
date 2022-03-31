@@ -23,7 +23,7 @@ icon: /assets/images/icon-512.png
 twitter_username: ericlaurits
 hide_search: true
 hide_credits: true
-show_excerpts: true
+show_excerpts: false
 
 # Build settings
 markdown: kramdown
